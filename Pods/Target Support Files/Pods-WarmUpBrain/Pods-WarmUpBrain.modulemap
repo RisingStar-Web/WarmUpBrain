@@ -1,0 +1,6 @@
+framework module Pods_WarmUpBrain {
+  umbrella header "Pods-WarmUpBrain-umbrella.h"
+
+  export *
+  module * { export * }
+}
